@@ -1,4 +1,4 @@
-#Repositori moje licne web stranice
+# Repositori moje licne web stranice
 
 Ovde će biti lična web stranica. Izrada u html/css i javascript.
 
